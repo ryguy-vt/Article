@@ -1,7 +1,5 @@
 # Article
 
-
-Client: Trilogy
 Month: March
 Post: Ryan Mohr
 Date: March 26, 2021
